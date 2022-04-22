@@ -1,0 +1,21 @@
+{
+	"_id": ObjectID(),
+	"_userId": 1,
+	"Folder": "My words",
+	"Language": "English",
+	"Title": "venture",
+	"Transcription": "ˈven.tʃər",
+	"Description": "new activity, that involves risk or uncertainty; take part in a risky journey",
+	"Forms": ["ventured", "to venture", "venturing", "venturous"],
+	"Synonyms": ["adventure", "risk", "jeopardize", "gamble"],
+	"Antonyms": ["assurance", "certainty", "safety"],
+	"Examples": [
+		"Don't ask me to do it. I don't get into any ventures.",
+		"Getting to the top of the richest people is a venture.",
+		"I think only a very venturous kind of person will be cheating on school examinations."
+	],
+	"Tags": ["noun", "verb"],
+	"Audio": "../_attachments/venture.mp3",
+	"Picture": "../_attachments/venture.jpg",
+	"Optional": ""
+}
