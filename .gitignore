@@ -1,0 +1,11 @@
+.vs/
+[Oo]bj/
+[Bb]in/
+.nuget/
+packages/
+*.user
+*.suo
+*.userprefs
+*DS_Store
+*.sln.ide
+lib/
