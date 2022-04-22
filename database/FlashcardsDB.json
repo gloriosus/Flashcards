@@ -1,8 +1,8 @@
 {
-	"_id": ObjectID(),
-	"_userId": 1,
-	"Folder": "My words",
-	"Language": "English",
+	"_id": "6260f5f9bcba9c66db28b20f",
+	"_userId": "b501c6e5-172e-42f8-a37b-945bd61e3119",
+	"Group": "My words",
+	"Language": "en-us",
 	"Title": "venture",
 	"Transcription": "ˈven.tʃər",
 	"Description": "new activity, that involves risk or uncertainty; take part in a risky journey",
@@ -15,7 +15,7 @@
 		"I think only a very venturous kind of person will be cheating on school examinations."
 	],
 	"Tags": ["noun", "verb"],
-	"Audio": "../_attachments/venture.mp3",
-	"Picture": "../_attachments/venture.jpg",
+	"Audio": "/_attachments/audio/venture.mp3",
+	"Picture": "/_attachments/picture/venture.jpg",
 	"Optional": ""
 }
